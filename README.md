@@ -1,3 +1,7 @@
+![alt text][logo]
+
+[logo]: https://github.com/samsam-0412/marianDB/blob/master/MarianDB.png "Logo"
+
 # Docker Library Official Image for MariaDB
 
 This is the Git repository of the [Docker Library "Official Image"](https://github.com/docker-library/official-images#what-are-official-images) for [`mariadb`](https://hub.docker.com/_/mariadb/).
